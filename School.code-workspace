@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Z:/CSCE314"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"chrono": "cpp",
+			"optional": "cpp",
+			"system_error": "cpp",
+			"type_traits": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xtr1common": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"xutility": "cpp",
+			"ostream": "cpp",
+			"algorithm": "cpp",
+			"format": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp"
+		}
+	}
+}

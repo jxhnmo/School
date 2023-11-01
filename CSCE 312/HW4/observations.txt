@@ -1,0 +1,6 @@
+Running the file with -O0 (optimization level zero) gave out an extremely large number with the output being:
+numbers are sorted
+2609278882 instructions executed
+
+Running the -03 (optimization level three / aggressive optimizations) gave out a much much smaller value of 767533255 instructions exwecuted.
+The optimizations improved performance by reducing code size, and eliminating redundant or unnecessary instructions.
